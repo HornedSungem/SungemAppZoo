@@ -1,0 +1,3 @@
+[submodule "python/SungemSDK-Python"]
+	path = python/SungemSDK-Python
+	url = https://github.com/HornedSungem/SungemSDK-Python.git
